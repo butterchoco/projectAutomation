@@ -1,5 +1,7 @@
 # Web Project Automation
-This is gui version of project automation.
+#### GUI version of Project Automation.
+
+    Project Automation is a project to generates many frameworks quickstart project based on GUI instead of CLI version.
 
 ## Framework
 - [x] Django
